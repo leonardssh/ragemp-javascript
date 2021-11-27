@@ -1,0 +1,6 @@
+{
+	"extends": "../jsconfig.base.json",
+	"compilerOptions": {
+		"types": ["../node_modules/@ragemp/types-client", "./@types"]
+	}
+}

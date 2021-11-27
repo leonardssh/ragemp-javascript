@@ -1,0 +1,41 @@
+{
+	"name": "ragemp-javascript",
+	"version": "1.0.0",
+	"scripts": {
+		"format": "prettier --write src/**/*.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/LeonardSSH/ragemp-javascript.git"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/LeonardSSH/ragemp-javascript/issues"
+	},
+	"homepage": "https://github.com/LeonardSSH/ragemp-javascript#readme",
+	"devDependencies": {
+		"@ragemp/types-client": "github:leonardssh/ragemp-types#types-client",
+		"@ragemp/types-server": "github:leonardssh/ragemp-types#types-server",
+		"prettier": "^2.5.0"
+	},
+	"prettier": {
+		"$schema": "http://json.schemastore.org/prettierrc",
+		"endOfLine": "lf",
+		"printWidth": 150,
+		"quoteProps": "as-needed",
+		"semi": true,
+		"singleQuote": true,
+		"tabWidth": 4,
+		"trailingComma": "none",
+		"useTabs": true,
+		"overrides": [
+			{
+				"files": "*.yml",
+				"options": {
+					"tabWidth": 2,
+					"useTabs": false
+				}
+			}
+		]
+	}
+}

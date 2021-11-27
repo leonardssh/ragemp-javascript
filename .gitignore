@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# RAGEMP Files
+BugTrap-x64.dll
+linux_x64.tar.gz
+ragemp-server.exe
+*.dat
+dotnet
+client_packages/.listcache
+bin
