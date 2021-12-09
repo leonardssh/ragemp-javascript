@@ -41,6 +41,8 @@ npm install
 
 Grab the server files from `RAGEMP/server-files` and drop them in the `root` folder.
 
+### Rename the `.env.example` file to `.env`
+
 ### Start the Server
 
 ```sh

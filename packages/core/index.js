@@ -1,3 +1,5 @@
+require('./setup');
+
 mp.events.add('playerReady', (player) => {
 	console.log(`${player.name} is ready!`);
 
