@@ -3,11 +3,11 @@ lockfileVersion: 5.3
 specifiers:
   '@ragempcommunity/types-client': ^2.0.2
   '@ragempcommunity/types-server': ^2.0.2
-  dotenv: ^10.0.0
+  dotenv: ^16.0.0
   prettier: ^2.5.0
 
 dependencies:
-  dotenv: 10.0.0
+  dotenv: 16.0.0
 
 devDependencies:
   '@ragempcommunity/types-client': 2.0.2
@@ -24,9 +24,9 @@ packages:
     resolution: {integrity: sha512-nlicSskEN9htdpuybcLyCoOeWmk2JcDg80a3xZm3mE2iuMBYqRbYvi6+Zsnk7KocRjUkOLdXtidlX9RfyUWFOg==}
     dev: true
 
-  /dotenv/10.0.0:
-    resolution: {integrity: sha512-rlBi9d8jpv9Sf1klPjNfFAuWDjKLwTIJJ/VxtoTwIR6hnZxcEOQCZg2oIL3MWBYw5GpUDKOEnND7LXTbIpQ03Q==}
-    engines: {node: '>=10'}
+  /dotenv/16.0.0:
+    resolution: {integrity: sha512-qD9WU0MPM4SWLPJy/r2Be+2WgQj8plChsyrCNQzW/0WjvcJQiKQJ9mH3ZgB3fxbUUxgc/11ZJ0Fi5KiimWGz2Q==}
+    engines: {node: '>=12'}
     dev: false
 
   /prettier/2.6.1:

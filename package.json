@@ -19,7 +19,7 @@
 		"prettier": "^2.5.0"
 	},
 	"dependencies": {
-		"dotenv": "^10.0.0"
+		"dotenv": "^16.0.0"
 	},
 	"prettier": {
 		"$schema": "http://json.schemastore.org/prettierrc",
