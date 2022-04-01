@@ -14,8 +14,8 @@
 	},
 	"homepage": "https://github.com/LeonardSSH/ragemp-javascript#readme",
 	"devDependencies": {
-		"@ragemp/types-client": "github:leonardssh/ragemp-types#types-client@v1.0.2",
-		"@ragemp/types-server": "github:leonardssh/ragemp-types#types-server@v1.0.1",
+		"@ragempcommunity/types-client": "^2.0.2",
+		"@ragempcommunity/types-server": "^2.0.2",
 		"prettier": "^2.5.0"
 	},
 	"dependencies": {

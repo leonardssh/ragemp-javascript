@@ -1,0 +1,36 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@ragempcommunity/types-client': ^2.0.2
+  '@ragempcommunity/types-server': ^2.0.2
+  dotenv: ^10.0.0
+  prettier: ^2.5.0
+
+dependencies:
+  dotenv: 10.0.0
+
+devDependencies:
+  '@ragempcommunity/types-client': 2.0.2
+  '@ragempcommunity/types-server': 2.0.2
+  prettier: 2.6.1
+
+packages:
+
+  /@ragempcommunity/types-client/2.0.2:
+    resolution: {integrity: sha512-0Ca5F3So10V3hD6dJtv08vYda2IletKpvOFXFfvYQvcK9aFghkHjtU4bnpHqAUFIvEms9CxgTSZFGJq8DTJTBg==}
+    dev: true
+
+  /@ragempcommunity/types-server/2.0.2:
+    resolution: {integrity: sha512-nlicSskEN9htdpuybcLyCoOeWmk2JcDg80a3xZm3mE2iuMBYqRbYvi6+Zsnk7KocRjUkOLdXtidlX9RfyUWFOg==}
+    dev: true
+
+  /dotenv/10.0.0:
+    resolution: {integrity: sha512-rlBi9d8jpv9Sf1klPjNfFAuWDjKLwTIJJ/VxtoTwIR6hnZxcEOQCZg2oIL3MWBYw5GpUDKOEnND7LXTbIpQ03Q==}
+    engines: {node: '>=10'}
+    dev: false
+
+  /prettier/2.6.1:
+    resolution: {integrity: sha512-8UVbTBYGwN37Bs9LERmxCPjdvPxlEowx2urIL6urHzdb3SDq4B/Z6xLFCblrSnE4iKWcS6ziJ3aOYrc1kz/E2A==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: true
