@@ -1,6 +1,6 @@
 {
 	"name": "ragemp-javascript",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"scripts": {
 		"format": "prettier --write src/**/*.js"
 	},
